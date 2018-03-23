@@ -1,0 +1,17 @@
+[
+  {
+    "path": "/goods",
+    "mame":"goods",
+    "component": "/goods/goods"
+  },
+  {
+    "path": "/ratings",
+    "mame":"ratings",
+    "component": "/ratings/ratings"
+  },
+  {
+    "path": "/seller",
+    "mame":"seller",
+    "component": "/seller/seller"
+  }
+]
