@@ -1,5 +1,5 @@
 
-#vue2.0仿饿了么
+# vue2.0仿饿了么
 # install dependencies
 npm install
 
